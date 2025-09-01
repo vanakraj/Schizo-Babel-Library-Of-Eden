@@ -1,4 +1,0 @@
-C:\Users\imeno\Code\Csharp\predmet_komponenty\cviko_1.12\obj\Debug\net8.0\cviko_1.12.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\imeno\Code\Csharp\predmet_komponenty\cviko_1.12\obj\Debug\net8.0\cviko_1.12.AssemblyInfoInputs.cache
-C:\Users\imeno\Code\Csharp\predmet_komponenty\cviko_1.12\obj\Debug\net8.0\cviko_1.12.AssemblyInfo.cs
-C:\Users\imeno\Code\Csharp\predmet_komponenty\cviko_1.12\obj\Debug\net8.0\cviko_1.12.csproj.CoreCompileInputs.cache
